@@ -20,15 +20,16 @@
 
 **На данный момент стек технологий:**
 - Java, kotlin
-- Android (MVVM, LiveData, Fragment, Navigation, RecyclerView, Coroutines, Room, SQLIte, Retrofit / OkHttp)
-- Spring, REST, Thymeleaf
+- OpenApi
+- Spring, Ktor, REST, Thymeleaf
 - SQL - MySQL, PostgreSQL, NoSQL - MongoDb, Redis
 - Gradle, Git
-- Unity (паттерн TDD)
 
 **Освоил и применяю:**
 1. Docker, docker-compose;
 2. Fluent-bit, OpenSearch и OpenSearch Dashboards.
+
+Могу кодировать под Android (MVVM, LiveData, Fragment, Navigation, RecyclerView, Coroutines, Room, SQLIte, Retrofit / OkHttp)
 
 <!--
 **shvetson/shvetson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
