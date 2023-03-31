@@ -31,6 +31,19 @@
 
 Могу кодировать под Android (MVVM, LiveData, Fragment, Navigation, RecyclerView, Coroutines, Room, SQLIte, Retrofit / OkHttp)
 
+val olegshvets = developer {
+    about {
+        name = "Oleg Shvets"
+        company = --
+        role = Developer
+    }
+    tech("Kotlin", "Java", "Spring")
+    links {
+        telegram = "@shvetson"
+        email = "shvetson@gmail.com"
+    }
+}
+
 <!--
 **shvetson/shvetson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
