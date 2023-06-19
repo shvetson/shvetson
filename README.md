@@ -21,7 +21,8 @@
 - Java, kotlin
 - OpenApi
 - Spring, Ktor, REST, Thymeleaf
-- SQL - MySQL, PostgreSQL, NoSQL - MongoDb, Redis
+- SQL - MySQL, PostgreSQL, NoSQL - Cassandra, MongoDb, Redis, NewSQL - ArcadeDB
+- Kafka, RabbitMQ
 - Gradle, Git
 
 **Освоил и применяю:**
