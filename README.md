@@ -19,11 +19,10 @@
 
 **На данный момент стек технологий:**
 - Java, kotlin
-- OpenApi
 - Spring, Ktor
-- SQL - MySQL, PostgreSQL, NoSQL - Cassandra, MongoDb, Redis, NewSQL - ArcadeDB
 - REST, Kafka, RabbitMQ
-- Gradle, Thymeleaf, Git
+- SQL - MySQL, PostgreSQL, NoSQL - Cassandra, MongoDb, Redis, NewSQL - ArcadeDB
+- OpenApi, Gradle, Thymeleaf, Git
 - Auth - KeyCloak
 
 **Освоил и применяю:**
