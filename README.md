@@ -20,10 +20,11 @@
 **На данный момент стек технологий:**
 - Java, kotlin
 - OpenApi
-- Spring, Ktor, REST, Thymeleaf
+- Spring, Ktor
 - SQL - MySQL, PostgreSQL, NoSQL - Cassandra, MongoDb, Redis, NewSQL - ArcadeDB
-- Kafka, RabbitMQ
-- Gradle, Git
+- REST, Kafka, RabbitMQ
+- Gradle, Thymeleaf, Git
+- Auth - KeyCloak
 
 **Освоил и применяю:**
 1. Docker, docker-compose;
