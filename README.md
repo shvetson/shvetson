@@ -8,20 +8,13 @@
 - разрабатывал прикладное программное обеспечение на delphi, java, php, PL/SQL;
 - администрировал СУБД Oracle 8, на ОС Unix (Solaris).
 
-После 10 лет работы в ИТ карьера развивалась в области менеджмента (нефтехимия, логистика, e-commerce).
-
-В 2020г решил вернуться в любимую профессию, прошел обучение:
-- на платформе **skillbox** - Java;
-- в **нетология** изучил Kotlin, закончил курс Android-разработчик;
-- в **otus** по backend разработкe на Kotlin.
-
-🔭 На Java пишу 2,5г., на Kotlin - 1,5г., со spring boot работаю 2г. (как на java, так и kotlin), ktor - 0,5г.
-
 **На данный момент стек технологий:**
 - Java, kotlin
 - Spring, Ktor
 - REST, Kafka, RabbitMQ
-- SQL - MySQL, PostgreSQL, NoSQL - Cassandra, MongoDb, Redis, NewSQL - ArcadeDB
+- SQL - MySQL, PostgreSQL
+- NoSQL - Cassandra, MongoDb, Redis
+- NewSQL - ArcadeDB
 - OpenApi, Gradle, Thymeleaf, Git
 - Auth - KeyCloak
 
@@ -29,7 +22,8 @@
 1. Docker, docker-compose;
 2. Fluent-bit, OpenSearch и OpenSearch Dashboards.
 
-Могу кодировать под Android (MVVM, LiveData, Fragment, Navigation, RecyclerView, Coroutines, Room, SQLIte, Retrofit / OkHttp)
+Работаю на ОС Ubuntu (linux).
+Знание ITIL, APICS, SCRUM, Agile, PMBook.
 
 val olegshvets = developer {
     about {
