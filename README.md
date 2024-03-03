@@ -17,7 +17,7 @@
 
 **Освоил и применяю:**
 1. Docker, docker-compose;
-2. Fluent-bit, OpenSearch и OpenSearch Dashboards.
+2. Fluent-bit, Loki и Grafana.
 
 Работаю на ОС Ubuntu (linux).
 Знание ITIL, APICS, SCRUM, Agile, PMBook.
