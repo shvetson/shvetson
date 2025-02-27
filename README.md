@@ -25,10 +25,10 @@
 val olegshvets = developer {
     about {
         name = "Oleg Shvets"
-        company = --
+        company = "BFT"
         role = Developer
     }
-    tech("Kotlin", "Java", "Spring")
+    tech("Kotlin", "Java", "Spring", "Ktor")
     links {
         telegram = "@shvetson"
         email = "shvetson@gmail.com"
